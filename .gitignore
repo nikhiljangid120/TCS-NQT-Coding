@@ -1,21 +1,38 @@
-# ── Helper / Scratch Scripts ──────────────────────────────────────
-*.py
-
-# ── Bible Content Exports ─────────────────────────────────────────
-bible_content.txt
-bible_full.txt
-
-# ── Source Document ───────────────────────────────────────────────
-*.docx
-
-# ── Compiled Binaries ─────────────────────────────────────────────
-*.exe
+# Compiled Object files
+*.slo
+*.lo
 *.o
+*.obj
+*.exe
 *.out
+*.app
 
-# ── OS / Editor junk ─────────────────────────────────────────────
-.DS_Store
+# Java
+*.class
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Windows image file caches
 Thumbs.db
+ehthumbs.db
 
-# ── TCS NQT Bible ───────────────────────────────────────────────
-TCS_NQT-2026_FINAL_BIBLE.docx
+# Folder config file
+Desktop.ini
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes

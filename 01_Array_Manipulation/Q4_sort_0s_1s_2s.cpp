@@ -1,3 +1,10 @@
+/*
+ * Problem Name: Sort 0S 1S 2S
+ * 
+ * Problem Description:
+ * Write a C++ program to solve the "Sort 0S 1S 2S" problem.
+ */
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){

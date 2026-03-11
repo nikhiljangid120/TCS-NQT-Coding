@@ -1,3 +1,10 @@
+/*
+ * Problem Name: Move Zeroes
+ * 
+ * Problem Description:
+ * Write a C++ program to solve the "Move Zeroes" problem.
+ */
+
 #include<bits/stdc++.h>
 using namespace std;
 

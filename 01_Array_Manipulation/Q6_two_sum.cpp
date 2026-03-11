@@ -1,3 +1,10 @@
+/*
+ * Problem Name: Two Sum
+ * 
+ * Problem Description:
+ * Write a C++ program to solve the "Two Sum" problem.
+ */
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
