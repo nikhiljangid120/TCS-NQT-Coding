@@ -8,11 +8,11 @@ First off, thank you for considering contributing to this repository! It's peopl
 1. Click the **Fork** button at the top right of the repository page.
 2. Clone your fork to your local machine:
    ```bash
-   git clone https://github.com/<your-username>/TCS-NQT-2026-Prep.git
+   git clone https://github.com/<your-username>/TCS-NQT-Coding.git
    ```
 3. Navigate into the directory:
    ```bash
-   cd TCS-NQT-2026-Prep
+   cd TCS-NQT-Coding
    ```
 
 #### 2. Create a Branch

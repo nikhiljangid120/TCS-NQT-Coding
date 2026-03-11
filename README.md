@@ -37,7 +37,7 @@ Please read our **[Contribution Guidelines](CONTRIBUTING.md)** for detailed inst
 
 A huge thank you to everyone who has contributed to this repository! Add your name here when you make your first merged Pull Request!
 
-- [Your Name/GitHub Profile] - *Repository Creator*
+- [Nikhil Jangid (nikhiljangid120)](https://github.com/nikhiljangid120) - *Repository Creator*
 
 ---
 *Happy Coding & All the best for TCS NQT 2026!* 🎓
