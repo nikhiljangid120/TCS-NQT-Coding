@@ -10,12 +10,22 @@ int main(){
     int target;
     cout<<"Enter the Target Sum: ";
     cin>>target;
-    int i = 0, j = n-1;
-    while(i<j){
-        int sum = arr[i] + arr[j];
-        if(sum==target) cout<<"Pair Found: "<<arr[i]<<","<<arr[j]<<endl;
-        if(sum>target) j--;
-        else i++;
+    // int i = 0, j = n-1;
+    // while(i<j){
+    //     int sum = arr[i] + arr[j];
+    //     if(sum==target) cout<<"Pair Found: "<<arr[i]<<","<<arr[j]<<endl;
+    //     if(sum>target) j--;
+    //     else i++;
+    // }
+    unordered_map<int,int>mp;
+    for(int i = 0;i<n;i++){
+        int comp = target - arr[i];
+        if(mp.find(comp)!=mp.end()){
+            cout<<"Pair Found: "<<arr[i]<<" "<<comp<<endl;
+            return 0;
+        }
+        mp[arr[i]] = i;
     }
+    cout<<"Pair Not Found"<<endl;
     return 0;
 }
