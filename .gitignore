@@ -1,0 +1,20 @@
+# ── Helper / Scratch Scripts ──────────────────────────────────────
+*.py
+
+# ── Bible Content Exports ─────────────────────────────────────────
+bible_content.txt
+bible_full.txt
+
+# ── Source Document ───────────────────────────────────────────────
+*.docx
+
+# ── Compiled Binaries ─────────────────────────────────────────────
+*.exe
+*.o
+*.out
+
+# ── OS / Editor junk ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+TCS_NQT-2026_FINAL_BIBLE.docx
