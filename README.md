@@ -19,7 +19,7 @@ The repository is organized by topics covering all essential concepts for TCS NQ
 - `06_Searching_Techniques/`
 - `07_Matrix_Grid_Operations/`
 - `08_Simulation_and_Conditionals/`
-- `09_Language_Essentials/`
+- `Language_Essentials/`
 
 Inside each topic folder, you will find:
 - `theory/`: Contains Markdown files explaining the concepts, tricks, and patterns.
