@@ -1,6 +1,5 @@
 # 📚 C++ ESSENTIALS — THEORY, TRICKS & TIPS
 ## TCS NQT 2026 Prep Guide
-
 ---
 
 ## 🔑 What You Must Know for TCS
