@@ -8,7 +8,7 @@ We support multiple languages to ensure everyone can learn and contribute in the
 - 🟡 **Python**
 
 ## 📂 Repository Structure
-
+ 
 The repository is organized by topics covering all essential concepts for TCS NQT:
 
 - `01_Array_Manipulation/`
