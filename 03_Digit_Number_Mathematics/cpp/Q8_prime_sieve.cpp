@@ -6,22 +6,28 @@
  */
 
 
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
-int main(){
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-
-    long long n;
-    cin>>n;
-    for(int i = 2;i<sqrt(n);i++){
-        if(n%i == 0){
-            cout<<"Not a Prime";
-            return 0;
-        }
+bool isPrime(int num) {
+    if (num <= 1) return false;
+    for (int i = 2; i * i <= num; i++) {
+        if (num % i == 0) return false;
     }
-    cout<<"Prime";
+    return true;
+}
+
+void printPrimes(int n) {
+    cout << "Prime numbers from 0 to " << n << " are: ";
+    for (int i = 0; i <= n; i++) {
+        if (isPrime(i)) cout << i << " ";
+    }
+    cout << endl;
+}
+
+int main() {
+    int n;
+    cin >> n;
+    printPrimes(n);
     return 0;
 }
