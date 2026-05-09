@@ -1,5 +1,4 @@
 # TCS NQT 2026 Preparation Repository 🚀
-
 Welcome to the ultimate preparation repository for the **TCS National Qualifier Test (NQT) 2026**! This repository is designed to help students master coding concepts frequently asked in TCS exams. 
 
 We support multiple languages to ensure everyone can learn and contribute in their preferred stack:
